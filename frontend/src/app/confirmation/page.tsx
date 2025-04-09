@@ -1,4 +1,4 @@
-// confirmation/page.tsx ddd
+// confirmation/page.tsx ddddd
 import Link from "next/link"
 import { CheckCircle } from "lucide-react"
 import { AuthCard } from "@/components/auth-card"
