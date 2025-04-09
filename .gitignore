@@ -1,0 +1,14 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.vscode/
+*.sqlite3
+.venv/
+venv/
+frontend/.next/
+frontend/.env.local
+frontend/.env
+backend/test.ipynb
